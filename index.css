@@ -103,6 +103,7 @@ a {
 
 #stack .stack-item h3 {
   min-width: 10rem;
+  margin-right: 2rem;
 }
 
 #stack .stack-list .stack-list-item h5 {
