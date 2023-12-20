@@ -144,3 +144,14 @@ a {
     height: 200px;
   }
 }
+
+.div-line{
+  margin-top: 15px;
+  margin-bottom: 30px;
+  width: 100%;
+  border: solid;
+}
+
+#project img{
+  max-width: 250px;
+}
